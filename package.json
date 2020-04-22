@@ -1,0 +1,27 @@
+{
+  "name": "webpack-combine-manifest-plugin",
+  "version": "1.0.0",
+  "description": "Combine multiple manifest.json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imere/webpack-combine-manifest-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "manifest"
+  ],
+  "author": "imere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imere/webpack-combine-manifest-plugin/issues"
+  },
+  "homepage": "https://github.com/imere/webpack-combine-manifest-plugin#readme",
+  "peerDependencies": {
+    "webpack": "4"
+  }
+}
