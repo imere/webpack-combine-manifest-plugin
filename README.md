@@ -1,5 +1,7 @@
 # webpack-combine-manifest-plugin
 
+This is not an official plugin
+
 ## ✈ Getting Started
 
 ```console
