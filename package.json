@@ -1,6 +1,6 @@
 {
   "name": "webpack-combine-manifest-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Combine multiple manifest.json files",
   "main": "index.js",
   "scripts": {
